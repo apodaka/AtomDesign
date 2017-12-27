@@ -1,0 +1,23 @@
+{
+  "name": "atom-design",
+  "description": "",
+  "version": "0.0.5",
+  "dependencies": {
+    "styled-components": "2.3.3",
+    "recompose": "0.26.0",
+    "react-dom": "16.0.0",
+    "react": "16.0.0",
+    "material-ui": "0.20.0",
+    "lodash": "4.17.4",
+    "immutable": "3.8.2"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
