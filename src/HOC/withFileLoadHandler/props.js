@@ -9,9 +9,8 @@ export const propTypes = {
 export const defaultProps = {
   setFile: noop,
   updateFileState: noop,
-  afterOnload: noop,
 };
 export default {
   propTypes,
   defaultProps,
-}
+};
